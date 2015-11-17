@@ -1,4 +1,4 @@
-#Martial
+#Martian
   *My personal Operating System*
 
 **Story**
